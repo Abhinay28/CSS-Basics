@@ -1,0 +1,16 @@
+h1 {
+  background-color: brown;
+}
+p {
+  color: blueviolet;
+}
+li {
+  color: blue;
+}
+
+.list-item {
+  color: #a1b3c4;
+}
+#fruit {
+  color: rgba(127, 88, 78, 80%);
+}
