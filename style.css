@@ -1,5 +1,6 @@
 h1 {
   background-color: brown;
+  width: 20vw;
 }
 p {
   color: blueviolet;
@@ -14,3 +15,12 @@ li {
 #fruit {
   color: rgba(127, 88, 78, 80%);
 }
+/* units & sizes */
+/* absolute Units - represents as px ( most used ),in,cm,mm,pt,pc*/
+/* DTP(dot per inch ) 1 Inch = 96px
+1pc = 16px
+1px =1/96 inch */
+/* Relative Units - depends on other elements sizes or settings
+represents as Rem (mostly used),%, vh ( viewport height ), vh(viewport width), em */
+/* rem is defaultly related to HTML( parental settings ) 1REM =16PX */
+/* % is relative to parent width */
