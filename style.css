@@ -1,0 +1,12 @@
+.modifier {
+  color: #173b79;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 1.5rem;
+  font-style: normal;
+  font-weight: 100;
+  letter-spacing: 1px;
+  line-height: 1.5;
+  text-align: center;
+  text-transform: none;
+}
