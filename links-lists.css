@@ -1,0 +1,41 @@
+html {
+  font-size: 20px;
+}
+
+.modifier {
+  color: #1739b7;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 1.1rem;
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 2px;
+  line-height: 2.5;
+  text-align: center;
+  text-transform: none;
+}
+
+.link-google {
+  color: #b3131f;
+  -moz-text-decoration-style: none;
+  text-transform: capitalize;
+}
+
+.link-google:visited {
+  color: #1739b7;
+}
+
+.link-google :hover {
+  color: #ff3313;
+}
+
+.link-google:active {
+  color: #14bc23;
+}
+.link-google:focus {
+  color: crimson;
+}
+
+.list-item {
+  list-style: none;
+}
